@@ -1,0 +1,60 @@
+
+BANKING CUSTOMER & TRANSACTION ANALYTICS
+Business Insights & Recommendations
+=====================================
+
+BUSINESS INSIGHTS
+-----------------
+
+1. Customer and Transaction Overview
+The dataset contains 884,265 unique customers and 1,048,567 transactions.
+
+2. Customer Transaction Frequency
+The average customer made 1.19 transactions, while the median transaction frequency was 1 transaction.
+This indicates that most customers conducted only a small number of transactions during the observed period.
+
+3. Customer Value Contribution
+High-value customers represent approximately 10% of customers but contribute approximately 63.27% of total transaction value.
+This indicates that a relatively small customer segment contributes a large proportion of transaction value.
+
+4. Transaction Value Distribution
+The median transaction value was INR 459.03, while the average transaction value was INR 1,574.34.
+The difference indicates a right-skewed transaction value distribution, where relatively large transactions increase the average.
+
+5. Transaction Value Range
+The INR 1,001–5,000 transaction range generated the largest total transaction value.
+Meanwhile, the INR 0–500 range contained the highest number of transactions.
+
+6. Transaction Activity by Time
+The 18:00–23:59 period recorded the highest number of transactions.
+The 12:00–17:59 period generated the highest total transaction value.
+
+7. Transaction Activity by Day
+Sunday recorded the highest transaction count and the highest total transaction value among the days of the week.
+
+8. Data Coverage Consideration
+The dataset covers 1 August 2016 to 21 October 2016 with 55 unique transaction dates.
+Some dates are missing and October represents only a partial period.
+Therefore, comparisons involving the end of the observation period should be interpreted carefully.
+
+
+BUSINESS RECOMMENDATIONS
+------------------------
+
+1. Customer Retention
+Prioritize retention and relationship management for high-value customers because approximately 10% of customers contribute approximately 63.27% of total transaction value.
+
+2. Customer Engagement
+Develop strategies that encourage customers to make repeat transactions because the median customer transaction frequency is only 1 transaction.
+
+3. Transaction Timing
+Prioritize operational monitoring and service readiness during the 12:00–17:59 and 18:00–23:59 periods because these periods account for the highest transaction activity and value.
+
+4. Weekend Activity
+Evaluate service capacity and customer engagement opportunities during weekends, particularly Sunday, which records the highest transaction activity.
+
+5. Transaction Value Monitoring
+Monitor transaction value ranges separately to understand the contribution of low-value and high-value transactions to overall transaction performance.
+
+6. Data Quality Monitoring
+Improve monitoring of transaction-date completeness before conducting monthly trend comparisons to ensure that conclusions are not affected by incomplete date coverage.
