@@ -3,6 +3,9 @@ data/raw/*.csv
 data/processed/*.csv
 data/processed/*.db
 
+# Anaconda
+anaconda_projects/
+
 # Python
 __pycache__/
 *.py[cod]
